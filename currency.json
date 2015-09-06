@@ -1,0 +1,18 @@
+{
+  "chromatic": 0.625,
+  "alteration": 0.625,
+  "jewellers": 0.125,
+  "chance": 0.125,
+  "chisel": 0.333,
+  "fusing": 0.5,
+  "alchemy": 0.5,
+  "scour": 0.5,
+  "blessed": 0.667,
+  "chaos": 1.0,
+  "regret": 1.0,
+  "regal": 2.0,
+  "gcp": 2.0,
+  "divine": 12.0,
+  "exalted": 51.0,
+  "mirror": 4000.0
+}

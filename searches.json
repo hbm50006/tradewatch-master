@@ -1,0 +1,192 @@
+{
+    "league": "Warbands",
+    "searches": [
+        {
+            "description": "20q Gems",
+            "buyout_currency": "chaos",
+            "buyout_max": "1",
+            "type": "Gem",
+            "q_min": "20"
+        },
+        {
+            "description": "6 sockets",
+            "buyout_currency": "fusing",
+            "buyout_max": "1",
+            "sockets_min": "6"
+        },
+        {
+            "description": "+3 Bows",
+            "buyout_currency": "chaos",
+            "buyout_max": "35",
+            "mods": [
+                {
+                    "mods": "+# to Level of Socketed Bow Gems",
+                    "modmin": "2",
+                    "modmax": ""
+                },
+                {
+                    "mods": "+# to Level of Socketed Gems",
+                    "modmin": "1",
+                    "modmax": ""
+                }
+            ]
+        },
+        {
+            "name": "Maligaro's Virtuosity",
+            "buyout_currency": "exalted",
+            "buyout_max": "2"
+        },
+        {
+            "name": "The Whispering Ice",
+            "buyout_currency": "exalted",
+            "buyout_max": "1"
+        },
+        {
+            "name": "Rat's Nest",
+            "buyout_currency": "exalted",
+            "buyout_max": "2.5"
+        },
+        {
+            "name": "Headhunter"
+        },
+        {
+            "name": "The Fiend",
+            "buyout_currency": "exalted",
+            "buyout_max": "4"
+        },
+        {
+            "name": "The Doctor",
+            "buyout_currency": "exalted",
+            "buyout_max": "6"
+        },
+        {
+            "name": "Rainbowstride Conjurer Boots",
+            "buyout_currency": "chaos",
+            "buyout_max": "35"
+        },
+        {
+            "name": "Aegis Aurora Champion Kite Shield",
+            "buyout_currency": "exalted",
+            "buyout_max": "3"
+        },
+        {
+            "name": "Prism Guardian Archon Kite Shield",
+            "buyout_currency": "chaos",
+            "buyout_max": "35"
+        },
+        {
+            "name": "Rathpith Globe",
+            "buyout_currency": "exalted",
+            "buyout_max": "2"
+        },
+        {
+            "name": "Belly of the Beast",
+            "buyout_currency": "exalted",
+            "buyout_max": "1.5"
+        },
+        {
+            "name": "Alpha's Howl",
+            "buyout_currency": "exalted",
+            "buyout_max": "1"
+        },
+        {
+            "name": "The Pack Leader",
+            "buyout_currency": "chaos",
+            "buyout_max": "15"
+        },
+        {
+            "name": "Pledge of Hands",
+            "buyout_currency": "exalted",
+            "buyout_max": "2",
+            "mods": [
+                {
+                    "mods": "#% increased Spell Damage",
+                    "modmin": "148",
+                    "modmax": ""
+                }
+            ]
+        },
+        {
+            "name": "Aurseize",
+            "buyout_currency": "exalted",
+            "buyout_max": "1",
+            "mods": [
+                {
+                    "mods": "(pseudo) (total) #% increased Rarity of Items found",
+                    "modmin": "46",
+                    "modmax": ""
+                }
+            ]
+        },
+        {
+            "name": "Inspired Learning",
+            "buyout_currency": "exalted",
+            "buyout_max": "1"
+        },
+        {
+            "name": "Divination Distillate",
+            "buyout_currency": "chaos",
+            "buyout_max": "35"
+        },
+        {
+            "name": "Tabula Rasa",
+            "buyout_currency": "chaos",
+            "buyout_max": "10"
+        },
+        {
+            "name": "Maligaro's Restraint",
+            "buyout_currency": "chaos",
+            "buyout_max": "6"
+        },
+        {
+            "name": "Lightning Coil",
+            "buyout_currency": "exalted",
+            "buyout_max": "4"
+        },
+        {
+            "name": "Hegemony's Era",
+            "buyout_currency": "exalted",
+            "buyout_max": "4.5"
+        },
+        {
+            "name": "Chill of Corruption",
+            "buyout_currency": "chaos",
+            "buyout_max": "25"
+        },
+        {
+            "name": "Sire of Shards",
+            "buyout_currency": "exalted",
+            "buyout_max": "1"
+        },
+        {
+            "name": "Soul Taker",
+            "buyout_currency": "exalted",
+            "buyout_max": "2"
+        },
+        {
+            "name": "Andvarius",
+            "buyout_currency": "exalted",
+            "buyout_max": "2"
+        },
+        {
+            "name": "Drillneck Penetrating Arrow Quiver",
+            "buyout_currency": "exalted",
+            "buyout_max": "3"
+        },
+        {
+            "name": "Carcass Jack",
+            "buyout_currency": "exalted",
+            "buyout_max": "2"
+        },
+        {
+            "name": "Astramentis Onyx Amulet",
+            "buyout_currency": "exalted",
+            "buyout_max": "1.5"
+        },
+        {
+            "name": "Perandus Signet Paua Ring",
+            "buyout_currency": "chaos",
+            "buyout_max": "30"
+        }
+    ]
+}

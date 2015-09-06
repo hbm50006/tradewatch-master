@@ -1,0 +1,24 @@
+{
+    "searches": [
+        {
+            "league": "Warbands",
+            "description": "empire's grasp with high armour",
+            "name": "empire's grasp",
+            "buyout_currency": "chaos",
+            "buyout_max": "10",
+            "type": "",
+            "q_min": "",
+            "sockets_min": "",
+            "sockets_max": "",
+            "link_min": "",
+            "link_max": "",
+            "mods": [
+                {
+                    "mods": "+# to Armour",
+                    "modmin": "500",
+                    "modmax": ""
+                }
+            ]
+        }
+    ]
+}
