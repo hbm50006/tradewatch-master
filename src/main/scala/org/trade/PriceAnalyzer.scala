@@ -2,7 +2,7 @@ package org.trade
 
 /**
  *
- * @author hmcgonig
+ * @author hbm50006
  */
 object PriceAnalyzer {
     def main(args: Array[String]) {
