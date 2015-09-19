@@ -10,7 +10,7 @@ import scala.util.Random
 
 /**
  *
- * @author hmcgonig
+ * @author hbm50006
  */
 case class Proxy(ip:String, port:Int)
 object ProxyFinder {
